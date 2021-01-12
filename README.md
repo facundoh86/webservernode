@@ -1,4 +1,4 @@
-## Codigo Fuente
+## Código Fuente
 
 ```
 npm install
